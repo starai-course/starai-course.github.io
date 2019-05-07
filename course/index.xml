@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>StarAi: Deep Reinforcement Learning Course on StarAi</title>
+    <link>https://starai-course.github.io/course/</link>
+    <description>Recent content in StarAi: Deep Reinforcement Learning Course on StarAi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="https://starai-course.github.io/course/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lecture 0 : Introduction to Reinforcement Learning</title>
+      <link>https://starai-course.github.io/course/lecture0/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture0/</guid>
+      <description>&amp;nbsp; &amp;nbsp;
+Video  &amp;nbsp; &amp;nbsp;
+Description In this lecture, we will take you on a journey into the near future by discussing the recent developments in the field of Reinforcement Learning - by introducing you to what Reinforcement Learning is, how it differs from Deep Learning and the future impact of RL technology.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 1: Epsilon-Greedy &amp; the multiarmed bandit problem</title>
+      <link>https://starai-course.github.io/course/lecture1/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture1/</guid>
+      <description>Video  &amp;nbsp; &amp;nbsp;
+Description In this lecture, we introduce you to your very first RL algorithm, Epsilon Greedy. We start off by exploring a toy problem known as the &amp;ldquo;multi armed bandit problem&amp;rdquo; or in english- how to win at slot machines! We then dive down into how Epsilon-Greedy solves the bandit problem, go on a detour introducing OpenAi Gym (and why it is important!) and finally hand you over to your first exercise, solving the bandit problem in OpenAi Gym.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2: Markov Decision Processes, Dynamic Programming</title>
+      <link>https://starai-course.github.io/course/lecture2/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture2/</guid>
+      <description>Video  &amp;nbsp; &amp;nbsp;
+Description In this lecture you will learn the fundamentals of Reinforcement Learning. We start off by discussing the Markov environment and its properties, gradually building our understanding of the intuition behind the Markov Decision Process and its elements, like state-value function, action-value function and policies. We then move on to discussing Bellman equations and the intuition behind them. At the end we will explore one of the Bellman equation implementations, using the Dynamic Programming approach and finish with an exercise, where you will implement state-value and action-value functions algorithms and find an optimal policy to solve the Gridworld problem.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3: Tabular Q Gridworld</title>
+      <link>https://starai-course.github.io/course/lecture3/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture3/</guid>
+      <description>Video  &amp;nbsp; &amp;nbsp;
+Description In this session, participants will focus on a specific method of Temporal Difference Learning called Tabular Q Learning. Participants will learn the theory behind Q Learning, implement the different components bit by bit and combine these components to solve the robot in a maze scenario.
+&amp;nbsp; &amp;nbsp;
+Lecture Slides &amp;hellip;
+&amp;nbsp; &amp;nbsp;
+Exercise Follow the link below to access the exercises for lecture 3:</description>
+    </item>
+    
+    <item>
+      <title>Lecture 4:  Tabular Q Cartpole</title>
+      <link>https://starai-course.github.io/course/lecture4/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture4/</guid>
+      <description>Video  &amp;nbsp; &amp;nbsp;
+Description In this session, participants will explore the problem of an environment where observations are continuous variables. Participants will learn the discretisation technique and implement this with the previous components to solve the problem of keeping a cart pole upright without having any understanding of the observations.
+&amp;nbsp; &amp;nbsp;
+Lecture Slides &amp;hellip;
+&amp;nbsp; &amp;nbsp;
+Exercise Follow the link below to access the exercises for lecture 4:</description>
+    </item>
+    
+    <item>
+      <title>Lecture 5:  NQL Theory</title>
+      <link>https://starai-course.github.io/course/lecture5/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture5/</guid>
+      <description>Video  &amp;nbsp; &amp;nbsp;
+Description Neural Q-Learning builds on the theory developed in previous sessions, augmenting the tabular Q-Learning algorithm with the powerful function approximation capabilities of Neural Networks. NQL is the &amp;ldquo;base&amp;rdquo; algorithm unifying Neural Networks and Reinforcement Learning, and participants will be exposed to both the impressive generalization properties of this algorithm, as well as some of it&amp;rsquo;s potential drawbacks and limitations.
+&amp;nbsp; &amp;nbsp;
+Lecture Slides &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6:  DQN</title>
+      <link>https://starai-course.github.io/course/lecture6/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture6/</guid>
+      <description>Video  &amp;nbsp; &amp;nbsp;
+Description Deep Q-Networks refer to the method proposed by Deepmind in 2014 to learn to play ATARI2600 games from the raw pixel observations. This hugely influential method kick-started the resurgence in interest in Deep Reinforcement Learning, however it&amp;rsquo;s core contributions deal simply with the stabilization of the NQL algorithm. In these session these key innovations (Experience Replay, Target Networks, and Huber Loss) are stepped though, taking the participants from the relatively unstable NQL algorithm to a fully-implemented DQN.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 7:  PySC2</title>
+      <link>https://starai-course.github.io/course/lecture7/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture7/</guid>
+      <description>Video  &amp;nbsp; &amp;nbsp;
+Description Starcraft 2 is a real time strategy game with highly complicated dynamics and rich multi-layered gameplay - which also makes it an ideal environment for AI research. PySC2 is Deepmind&amp;rsquo;s open source library for interfacing with Blizzard&amp;rsquo;s Starcraft 2 game. This session will introduce the PySC2 API, the observation space and the action spaces available &amp;amp; participants will build a simple DQN agent to play the Move to Beacon minigame provided with PySC2.</description>
+    </item>
+    
+  </channel>
+</rss>

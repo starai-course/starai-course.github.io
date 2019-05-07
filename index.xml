@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>StarAi on StarAi</title>
+    <link>https://starai-course.github.io/</link>
+    <description>Recent content in StarAi on StarAi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Apr 2019 00:00:00 +1100</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lecture 0 : Introduction to Reinforcement Learning</title>
+      <link>https://starai-course.github.io/course/lecture0/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture0/</guid>
+      <description>
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;iframe width=&#34;660&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/JYKmkQp7YSg&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;In this lecture, we will take you on a journey into the near future by discussing the recent developments in the  field of Reinforcement Learning - by introducing you to what Reinforcement Learning is, how it differs from Deep Learning and the future impact of RL technology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lecture 1: Epsilon-Greedy &amp; the multiarmed bandit problem</title>
+      <link>https://starai-course.github.io/course/lecture1/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture1/</guid>
+      <description>
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PL99pkap-yVqVEc58yzVHXNxW4RpdIn76Z&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;  
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;In this lecture, we introduce you to your very first RL algorithm, Epsilon Greedy.  We start off by exploring a toy problem known as the &amp;ldquo;multi armed bandit problem&amp;rdquo; or in english- how to win at slot machines! We then dive down into how Epsilon-Greedy solves the bandit problem, go on a detour introducing OpenAi Gym (and why it is important!) and finally hand you over to your first exercise, solving the bandit problem in OpenAi Gym.&lt;/p&gt;
+
+&lt;p&gt;A written version of this lecture is also &lt;a href=&#34;https://star-ai.github.io/What-the-Shell-is-a-Multi-Armed-Bandit-Guest-Starring-the-Epsilon-Greedy-Algorithm/&#34; target=&#34;_blank&#34;&gt;available on the StarAi blog.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise&#34;&gt;Exercise&lt;/h2&gt;
+
+&lt;p&gt;Follow the link below to access the exercises for lecture 1:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1Ety-lOtIJLxz9jkWtw7plMc8EOB2V3wG&#34; target=&#34;_blank&#34;&gt;Lecture 1: Epsilon-Greedy &amp;amp; the Multi- Armed Bandit with OpenAi Gym&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://incompleteideas.net/book/RLbook2018.pdf&#34; target=&#34;_blank&#34;&gt;Sutton &amp;amp; Barto&amp;rsquo;s Reinforcement Learning: An Introduction&lt;/a&gt; - Chapter 2 intro, section 2.1 up to 2.5&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bl.ocks.org/puzzler10/f8955e779fd81f5cf7befaef76bdf503&#34; target=&#34;_blank&#34;&gt;Tom Roth&amp;rsquo;s Multiarmed Bandit Simulator&lt;/a&gt; - Get a feel for how the Multiarmed Bandit works live in your browser!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2: Markov Decision Processes, Dynamic Programming</title>
+      <link>https://starai-course.github.io/course/lecture2/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture2/</guid>
+      <description>
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PL99pkap-yVqXlX0QKfxQSfKdvJA0M858L&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;  
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;In this lecture you will learn the fundamentals of Reinforcement Learning. We start off by discussing the Markov environment and its properties, gradually building our understanding of the intuition behind the Markov Decision Process and its elements, like state-value function, action-value function and policies. We then move on to discussing Bellman equations and the intuition behind them.  At the end we will explore one of the Bellman equation implementations, using the Dynamic Programming approach and finish with an exercise, where you will implement state-value and action-value functions algorithms and find  an optimal policy to solve the Gridworld problem.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise&#34;&gt;Exercise&lt;/h2&gt;
+
+&lt;p&gt;Follow the link below to access the exercises for lecture 2:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1U2S9RT74KroGdYZNmEoS4hPxnpIryrr9&#34; target=&#34;_blank&#34;&gt;Lecture 2 Exercise 1: Policy Evaluation Exercise&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1A5xFYs5wf6RKYY4OF2XYZlnMGreSv0p7&#34; target=&#34;_blank&#34;&gt;Lecture 2 Exercise 2: Policy Iteration Exercise&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1S-YKcZqWdnQFeB7tK3u-_o1MTD15mnFD&#34; target=&#34;_blank&#34;&gt;Lecture 2 Exercise 3: Value Iteration Exercise&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://incompleteideas.net/book/RLbook2018.pdf&#34; target=&#34;_blank&#34;&gt;Sutton &amp;amp; Barto&amp;rsquo;s Reinforcement Learning: An Introduction&lt;/a&gt; - All of Chapter 3 &amp;amp; 4.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3: Tabular Q Gridworld</title>
+      <link>https://starai-course.github.io/course/lecture3/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture3/</guid>
+      <description>
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PL99pkap-yVqUAZEt2yxmJwIMI6cq39plx&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;  
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;In this session, participants will focus on a specific method of Temporal Difference Learning called Tabular Q Learning. Participants will learn the theory behind Q Learning, implement the different components bit by bit and combine these components to solve the robot in a maze scenario.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise&#34;&gt;Exercise&lt;/h2&gt;
+
+&lt;p&gt;Follow the link below to access the exercises for lecture 3:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Gb_a7TmYOpllQuse6ryI5ANHsAaSNcmq/view?usp=drive_open&#34; target=&#34;_blank&#34;&gt;Lecture 3 Exercise 1: Tabular Q FrozenLake&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
+
+&lt;p&gt;Will Walking through the solutions to exercise #:&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MIzulXMSaEQ&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://incompleteideas.net/book/RLbook2018.pdf&#34; target=&#34;_blank&#34;&gt;Sutton &amp;amp; Barto&amp;rsquo;s Reinforcement Learning: An Introduction&lt;/a&gt; - Chapter 5 read intro and summary, Chapter 6 intro, section 6.1 to 6.3 + 6.5 (other sections optional but good to read), Chapter 7 read intro and summary&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lecture 4:  Tabular Q Cartpole</title>
+      <link>https://starai-course.github.io/course/lecture4/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture4/</guid>
+      <description>
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PL99pkap-yVqVK38y2GPQmI6tIny9Ru7k1&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;  
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;In this session, participants will explore the problem of an environment where observations are continuous variables. Participants will learn the discretisation technique and implement this with the previous components to solve the problem of keeping a cart pole upright without having any understanding of the observations.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise&#34;&gt;Exercise&lt;/h2&gt;
+
+&lt;p&gt;Follow the link below to access the exercises for lecture 4:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Owuoxq8tEnl_F3vupLhSnWMszsXiqq3f/view?usp=drive_open&#34; target=&#34;_blank&#34;&gt;Lecture 4 Exercise 2: Tabular Q Cartpole!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lecture 5:  NQL Theory</title>
+      <link>https://starai-course.github.io/course/lecture5/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture5/</guid>
+      <description>
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PL99pkap-yVqXaT_pFbknWeOz3LzRMS6aB&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;  
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Neural Q-Learning builds on the theory developed in previous sessions, augmenting the tabular Q-Learning algorithm with the powerful function approximation capabilities of Neural Networks. NQL is the &amp;ldquo;base&amp;rdquo; algorithm unifying Neural Networks and Reinforcement Learning, and participants will be exposed to both the impressive generalization properties of this algorithm, as well as some of it&amp;rsquo;s potential drawbacks and limitations.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise&#34;&gt;Exercise&lt;/h2&gt;
+
+&lt;p&gt;Follow the link below to access the exercises for lecture 5:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1n3BLoAjqEdOkXbW0hPLzHyDnT-xVkTil&#34; target=&#34;_blank&#34;&gt;lecture 5 Exercise 1: Neural Q Learning Exercise&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
+
+&lt;p&gt;Follow the link below to access the exercise solutions for lecture 5:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1f0FzLwFspcMEgHdRkjV2NcA4IvQWOJ50&#34; target=&#34;_blank&#34;&gt;lecture 5 Exercise 1: Neural Q Learning Exercise Solutions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://incompleteideas.net/book/RLbook2018.pdf&#34; target=&#34;_blank&#34;&gt;Sutton &amp;amp; Barto&amp;rsquo;s Reinforcement Learning: An Introduction&lt;/a&gt; - Chapter 16 section 16.5&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6:  DQN</title>
+      <link>https://starai-course.github.io/course/lecture6/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture6/</guid>
+      <description>
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/XTWIQ_l5YMw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Deep Q-Networks refer to the method proposed by Deepmind in 2014 to learn to play ATARI2600 games from the raw pixel observations. This hugely influential method kick-started the resurgence in interest in Deep Reinforcement Learning, however it&amp;rsquo;s core contributions deal simply with the stabilization of the NQL algorithm. In these session these key innovations (Experience Replay, Target Networks, and Huber Loss) are stepped though, taking the participants from the relatively unstable NQL algorithm to a fully-implemented DQN.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise&#34;&gt;Exercise&lt;/h2&gt;
+
+&lt;p&gt;Follow the link below to access the exercises for lecture 6:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1JMtTOmHLG8xqdfhKm0z3i1N4t4lbXh1P/view?usp=drive_open&#34; target=&#34;_blank&#34;&gt;lecture 6 Exercise 1: DQN Homework Exercise&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
+
+&lt;p&gt;Follow the link below to access the exercise solutions for lecture 6:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1YlgZfVteeLFGnGbsD56vE1dsUwyDreYg/view?usp=drive_open&#34; target=&#34;_blank&#34;&gt;lecture 6 Exercise 1: DQN Homework Exercise Solutions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lecture 7:  PySC2</title>
+      <link>https://starai-course.github.io/course/lecture7/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture7/</guid>
+      <description>
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PL99pkap-yVqWBYRlGJ74Eqv184MA9yHE5&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Starcraft 2 is a real time strategy game with highly complicated dynamics and rich multi-layered gameplay - which also makes it an ideal environment for AI research. PySC2 is Deepmind&amp;rsquo;s open source library for interfacing with Blizzard&amp;rsquo;s Starcraft 2 game. This session will introduce the PySC2 API, the observation space and the action spaces available &amp;amp; participants will build a simple DQN agent to play the Move to Beacon minigame provided with PySC2.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise&#34;&gt;Exercise&lt;/h2&gt;
+
+&lt;p&gt;Follow the link below to access the exercises for lecture 7:&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://starai-course.github.io/team/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/team/</guid>
+      <description>
+
+&lt;h3 id=&#34;starai-is-a-team-of-developers-machine-learning-engineers-researchers-based-in-australia&#34;&gt;StarAi is a team of Developers, Machine Learning Engineers &amp;amp; Researchers based in Australia.&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructor Team:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/98mP9c7/paulie.png&#34;
+     alt=&#34;Markdown Monster icon&#34;
+     style=&#34;float: left; margin-right: 10px;&#34;  /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Machine Learning Engineer&lt;/strong&gt;  Paul Conyngham&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/gwQNRWC/longie.png&#34;
+     alt=&#34;Markdown Monster icon&#34;
+     style=&#34;float: left; margin-right: 10px;&#34;  /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reinforcement Learning PhD Candidate&lt;/strong&gt;  Alex Long&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/kQKJywx/will.png&#34;
+     alt=&#34;Markdown Monster icon&#34;
+     style=&#34;float: left; margin-right: 10px;&#34;  /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt;  William Xu&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/tBGML5J/artem.png&#34;
+     alt=&#34;Markdown Monster icon&#34;
+     style=&#34;float: left; margin-right: 10px;&#34;  /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt;  Artem Golubev&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/DGwzcj4/steven.png&#34;
+     alt=&#34;Markdown Monster icon&#34;
+     style=&#34;float: left; margin-right: 10px;&#34;  /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Artificial Intelligence Engineer&lt;/strong&gt;  Steven Brown&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Teaching Assistants:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/k2qsSzd/ben.png&#34;
+     alt=&#34;Markdown Monster icon&#34;
+     style=&#34;float: left; margin-right: 10px;&#34;  /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Machine Learning Engineer&lt;/strong&gt;  Ben Jelliffe&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Developer Team:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/CtHBcm9/frankie.png&#34;
+     alt=&#34;Markdown Monster icon&#34;
+     style=&#34;float: left; margin-right: 10px;&#34;  /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Low Level Software Engineer&lt;/strong&gt;  Franklin He&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://starai-course.github.io/tools/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/tools/</guid>
+      <description>
+
+&lt;h3 id=&#34;we-would-like-to-accelerate-the-progress-of-reinforcement-learning-research&#34;&gt;We would like to accelerate the progress of Reinforcement Learning research.&lt;/h3&gt;
+
+&lt;h3 id=&#34;we-believe-that-getting-the-public-involved-in-rl-is-one-way-to-do-this-however-not-everyone-has-access-to-a-powerful-computer-in-order-to-perform-state-of-the-art-machine-learning&#34;&gt;We believe that getting the public involved in RL is one way to do this, however not everyone has access to a powerful computer in order to perform state of the art machine learning.&lt;/h3&gt;
+
+&lt;h3 id=&#34;early-last-year-the-starai-team-succeeded-in-getting-google-deepmind-s-pysc2-to-run-on-colaboratory&#34;&gt;Early last year, the StarAi team succeeded in getting Google Deepmind&amp;rsquo;s PySc2 to run on Colaboratory.&lt;/h3&gt;
+
+&lt;h3 id=&#34;this-translates-to-powerful-free-compute-for-all&#34;&gt;This translates to powerful free compute for all.&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;StarAi Starcraft Google Colaboratory IPython Notebook&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1AzCKV98UaQQz2aJIeGWlExcxBrpgKsIV&#34; target=&#34;_blank&#34;&gt;https://colab.research.google.com/drive/1AzCKV98UaQQz2aJIeGWlExcxBrpgKsIV&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; Frank He&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;StarAi tutorial on how to setup your Starcraft machine learning model for Colaboratory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@paul.steven.conyngham/how-to-optimise-your-starcraft-machine-learning-model-for-google-colaboratory-5525d5aed01e&#34; target=&#34;_blank&#34;&gt;https://medium.com/@paul.steven.conyngham/how-to-optimise-your-starcraft-machine-learning-model-for-google-colaboratory-5525d5aed01e&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; Paul Conyngham&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;StarAi: &amp;ldquo;Foundations&amp;rdquo; modular Reinforcement Learning Framework&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/star-ai/foundations&#34; target=&#34;_blank&#34;&gt;https://github.com/star-ai/foundations&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; William Xu&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

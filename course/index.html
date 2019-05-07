@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.1.0">
+  <meta name="generator" content="Hugo 0.54.0" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Professor of Artificial Intelligence">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://starai-course.github.io/course/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="https://starai-course.github.io/course/index.xml" type="application/rss+xml" title="StarAi">
+  <link rel="feed" href="https://starai-course.github.io/course/index.xml" type="application/rss+xml" title="StarAi">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://starai-course.github.io/course/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="StarAi">
+  <meta property="og:url" content="https://starai-course.github.io/course/">
+  <meta property="og:title" content="StarAi: Deep Reinforcement Learning Course | StarAi">
+  <meta property="og:description" content="Professor of Artificial Intelligence"><meta property="og:image" content="https://starai-course.github.io/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2018-09-09T00:00:00&#43;10:00">
+  
+
+  
+
+  
+
+  <title>StarAi: Deep Reinforcement Learning Course | StarAi</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/"><img src="/img/icon-192.png" alt="StarAi"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#demo">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/course/">
+            
+            <span>Course</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="http://forums.starai.io/" target="_blank" rel="noopener">
+            
+            <span>Forum</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/tools/">
+            
+            <span>Tools</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="https://star-ai.github.io/" target="_blank" rel="noopener">
+            
+            <span>Blog</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/team/">
+            
+            <span>Team</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/course/">
+            
+            <span>About</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  <div class="docs-toc-item active">
+    <a class="docs-toc-link" href="/course/">Overview</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/course/lecture0/">Week 1</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/course/lecture0/">Lecture 0: Introduction to Reinforcement Learning</a>
+      </li>
+      
+      <li >
+        <a href="/course/lecture1/">Lecture 1: Epsilon-Greedy &amp; the multiarmed bandit problem</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/course/lecture2/">Week 2</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/course/lecture2/">Lecture 2: Markov Decision Processes, Dynamic Programming</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/course/lecture3/">Week 3</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/course/lecture3/">Lecture 3: Tabular Q Gridworld</a>
+      </li>
+      
+      <li >
+        <a href="/course/lecture4/">Lecture 4:  Tabular Q Cartpole</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/course/lecture5/">Week 4</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/course/lecture5/">Lecture 5:  NQL Theory</a>
+      </li>
+      
+      <li >
+        <a href="/course/lecture6/">Lecture 6:  DQN</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/course/lecture7/">Week 5</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/course/lecture7/">Lecture 7:  PySC2</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      
+      <p class="docs-toc-title">On this page</p>
+      
+
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#welcome">Welcome</a></li>
+<li><a href="#maximise-your-learning">Maximise Your Learning.</a></li>
+<li><a href="#exercise-technology">Exercise Technology!</a></li>
+<li><a href="#how-to-do-the-exercises">How to do the exercises.</a></li>
+<li><a href="#en-taro-adun">En Taro Adun!</a></li>
+<li><a href="#reinforcement-learning-in-the-wild">Reinforcement Learning in the Wild!</a></li>
+<li><a href="#additional-learning-material">Additional Learning Material</a></li>
+<li><a href="#starai-is-beta">StarAi is Beta</a></li>
+</ul></li>
+</ul>
+</nav>
+
+      <ul class="nav toc-top">
+        <li><a href="#">Back to top</a></li>
+      </ul>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article" itemscope itemtype="http://schema.org/Article">
+
+        <div class="docs-article-container">
+          <h1 itemprop="name">StarAi: Deep Reinforcement Learning Course</h1>
+
+          <div class="article-style" itemprop="articleBody">
+            
+
+<p>&nbsp;</p>
+
+<h2 id="welcome">Welcome</h2>
+
+<p>Welcome to the StarAi Deep Reinforcement Learning course.</p>
+
+<p>The goal of this course is two fold:</p>
+
+<ul>
+<li><strong>Most RL courses come at the material from a highly mathematical approach. We aim to explain essential Reinforcement Learning concepts such as value based methods using a fundamentally human tool - stories.</strong></li>
+<li><strong>We believe what you cannot create, you do not understand. We have provided easy to use exercises, with answers, to  reinforce your learning.</strong></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2 id="maximise-your-learning">Maximise Your Learning.</h2>
+
+<p>To maximise your learning, we recommend you form a study group(s) in your local area and cover the course contents over a period of 6 weeks.</p>
+
+<p>For inspiration, check out what <a href="https://www.meetup.com/sydneymachinelearning/events/253667418/" target="_blank">we did last year here</a>.</p>
+
+<p>&nbsp;</p>
+
+<h2 id="exercise-technology">Exercise Technology!</h2>
+
+<p>All exercises are executed in Google Colaboratory and run &ldquo;in browser&rdquo; making them hardware independent. All you need is a Google account and either Firefox or Google Chrome Browsers!</p>
+
+<p>&nbsp;</p>
+
+<h2 id="how-to-do-the-exercises">How to do the exercises.</h2>
+
+<p>Watch the lecture material, then have an attempt at the exercises.</p>
+
+<p>We highly recommend you only look at the answers after spending significant time trying to solve the exercise material.</p>
+
+<p>&nbsp;</p>
+
+<h2 id="en-taro-adun">En Taro Adun!</h2>
+
+<p>For those of you only interested in the Starcraft element of StarAi please refer to the content of week 6 by clicking this link.</p>
+
+<p>Way back in April 2018! -an actual epoch in the machine learning world!- we set out to create this course to help speed up the development of advanced machine learning techniques through a fun platform - mainly - Starcraft 2, hence the name &ldquo;StarAi&rdquo;.</p>
+
+<p><a href="https://aiandgames.com/zerg-rush-starcraft-ai/" target="_blank">For a long time Starcraft has been considered within the machine learning community to be the next &ldquo;Grand Challenge&rdquo; for Artificial Intelligence</a> due to several properties of the game including very high state &amp; action spaces, partial observability &amp; multi agent gameplay.</p>
+
+<p>However as most of you are aware, <a href="https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/" target="_blank">this year Deepmind made significant progress with regards to solving the game</a>. For all intents and purposes, removing the &ldquo;human limitations&rdquo; restrictions currently emposed on Deepmind&rsquo;s system, the game can be said to be solved and am sure we will see even further progress towards the end of the year from Deepmind&rsquo;s Starcraft team akin to <a href="https://deepmind.com/blog/alphago-zero-learning-scratch/" target="_blank">AlphaGo Zero</a>.</p>
+
+<p>Why even release the course then? We still believe that the development of bots for games is a fun a way to learn advanced machine learning techniques &amp; if your work in the field eventually leads to new breakthroughs, even more kudos to you!</p>
+
+<p>We also believe that RL will have massive impact in the real world. That is the subject of the next section!</p>
+
+<p>&nbsp;</p>
+
+<h2 id="reinforcement-learning-in-the-wild">Reinforcement Learning in the Wild!</h2>
+
+<p>Outside of games however, we are beginning to see more use cases of Reinforcement Learning in the wild.</p>
+
+<p>Including <a href="https://arxiv.org/pdf/1805.02343.pdf" target="_blank">web store product recommendations</a>,  <a href="https://towardsdatascience.com/deep-reinforcement-learning-for-news-recommendation-part-1-architecture-5741b1a6ed56" target="_blank">  news recommendation</a>, <a href="https://www.forbes.com/sites/quora/2018/07/25/what-are-the-latest-works-on-reinforcement-learning-in-the-financial-field/#3c35b15b44df" target="_blank">in the finance industry</a> , <a href="https://ai.googleblog.com/2017/05/using-machine-learning-to-explore.html" target="_blank">Automated Architecture search for Machine Learning using RL</a> ,<a href="https://wayve.ai/" target="_blank">End to End  Machine Learning for Self Driving Cars</a>, and last and most excitingly the field of Robotics where <a href="https://www.therobotreport.com/reinforcement-learning-industrial-robotics/" target="_blank">Deep Reinforcement Learning is exploding!</a></p>
+
+<p>We believe that RL will start to play an ever increasing role where automated decision making is required in an end to end manner.</p>
+
+<p>&nbsp;</p>
+
+<h2 id="additional-learning-material">Additional Learning Material</h2>
+
+<p>For those technically inclined, or if you would like to dive deeper we have provided links to relevant chapters in Sutton &amp; Bartos&rsquo;s excellent text book, &ldquo;Reinforcement Learning: An Introduction&rdquo; for each week&rsquo;s material.</p>
+
+<p>&nbsp;</p>
+
+<h2 id="starai-is-beta">StarAi is Beta</h2>
+
+<p>StarAi was entirely created by volunteer experts of their respective fields here in Sydney, Australia.</p>
+
+<p>Whilst we did our best to ensure the content is as polished as it could be, we admit bugs exist both logical and otherwise.</p>
+
+<p>It has also been some time since StarAi was run and some of the exercise content might be out of date (tensorflow 2.0 etc). We would welcome and feedback good or bad. Or potential updates to our exercises &amp; codebase. If you would like to provide feedback or help in any way please reach out at contact@starai.io</p>
+
+          </div>
+
+          
+
+        </div>
+
+        <div class="body-footer">
+          Last updated on Sep 9, 2018
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.d7381f2d79e6271d4da28f474f49096c.js"></script>
+
+  </body>
+</html>
+
+
