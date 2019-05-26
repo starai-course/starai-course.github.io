@@ -29,7 +29,10 @@
     
   
   <meta name="description" content="Video  &nbsp; &nbsp;
-Description Starcraft 2 is a real time strategy game with highly complicated dynamics and rich multi-layered gameplay - which also makes it an ideal environment for AI research. PySC2 is Deepmind&rsquo;s open source library for interfacing with Blizzard&rsquo;s Starcraft 2 game. This session will introduce the PySC2 API, the observation space and the action spaces available &amp; participants will build a simple DQN agent to play the Move to Beacon minigame provided with PySC2.">
+Description In previous lectures, you were introduced to DQN - an algorithm that falls under the first major branch of Reinforcement Learning, &ldquo;Value Based Methods&rdquo;. In this lecture, we introduce you to &ldquo;Policy Gradient methods&rdquo; the second major branch of Reinforcement Learning where we learn to manipulate the object we care about the most - the policy - directly.
+&nbsp; &nbsp;
+Lecture Slides &hellip;
+&nbsp; &nbsp;">
 
   
   <link rel="alternate" hreflang="en-us" href="https://starai-course.github.io/course/lecture7/">
@@ -120,9 +123,12 @@ Description Starcraft 2 is a real time strategy game with highly complicated dyn
   
   <meta property="og:site_name" content="StarAi">
   <meta property="og:url" content="https://starai-course.github.io/course/lecture7/">
-  <meta property="og:title" content="Lecture 7:  PySC2 | StarAi">
+  <meta property="og:title" content="Lecture 7:  Policy Gradient Methods | StarAi">
   <meta property="og:description" content="Video  &nbsp; &nbsp;
-Description Starcraft 2 is a real time strategy game with highly complicated dynamics and rich multi-layered gameplay - which also makes it an ideal environment for AI research. PySC2 is Deepmind&rsquo;s open source library for interfacing with Blizzard&rsquo;s Starcraft 2 game. This session will introduce the PySC2 API, the observation space and the action spaces available &amp; participants will build a simple DQN agent to play the Move to Beacon minigame provided with PySC2."><meta property="og:image" content="https://starai-course.github.io/img/icon-192.png">
+Description In previous lectures, you were introduced to DQN - an algorithm that falls under the first major branch of Reinforcement Learning, &ldquo;Value Based Methods&rdquo;. In this lecture, we introduce you to &ldquo;Policy Gradient methods&rdquo; the second major branch of Reinforcement Learning where we learn to manipulate the object we care about the most - the policy - directly.
+&nbsp; &nbsp;
+Lecture Slides &hellip;
+&nbsp; &nbsp;"><meta property="og:image" content="https://starai-course.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2019-04-04T00:00:00&#43;11:00">
@@ -134,7 +140,7 @@ Description Starcraft 2 is a real time strategy game with highly complicated dyn
 
   
 
-  <title>Lecture 7:  PySC2 | StarAi</title>
+  <title>Lecture 7:  Policy Gradient Methods | StarAi</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -451,7 +457,37 @@ Description Starcraft 2 is a real time strategy game with highly complicated dyn
     <ul class="nav docs-sidenav">
       
       <li class="active">
-        <a href="/course/lecture7/">Lecture 7:  PySC2</a>
+        <a href="/course/lecture7/">Lecture 7:  Policy Gradient Methods</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/course/lecture8/">Week 6</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/course/lecture8/">Lecture 8:  PySC2</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/course/lecture9/">`Bonus Material</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/course/lecture9/">Rainbow</a>
+      </li>
+      
+      <li >
+        <a href="/course/lecture10/">The A2C algorithm</a>
       </li>
       
     </ul>
@@ -497,21 +533,21 @@ Description Starcraft 2 is a real time strategy game with highly complicated dyn
       <article class="article" itemscope itemtype="http://schema.org/Article">
 
         <div class="docs-article-container">
-          <h1 itemprop="name">Lecture 7:  PySC2</h1>
+          <h1 itemprop="name">Lecture 7:  Policy Gradient Methods</h1>
 
           <div class="article-style" itemprop="articleBody">
             
 
 <h2 id="video">Video</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL99pkap-yVqWBYRlGJ74Eqv184MA9yHE5" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XTWIQ_l5YMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>&nbsp;
 &nbsp;</p>
 
 <h2 id="description">Description</h2>
 
-<p>Starcraft 2 is a real time strategy game with highly complicated dynamics and rich multi-layered gameplay - which also makes it an ideal environment for AI research. PySC2 is Deepmind&rsquo;s open source library for interfacing with Blizzard&rsquo;s Starcraft 2 game. This session will introduce the PySC2 API, the observation space and the action spaces available &amp; participants will build a simple DQN agent to play the Move to Beacon minigame provided with PySC2.</p>
+<p>In previous lectures, you were introduced to DQN - an algorithm that falls under the first major branch of Reinforcement Learning, &ldquo;Value Based Methods&rdquo;. In this lecture, we introduce you to &ldquo;Policy Gradient methods&rdquo; the second major branch of Reinforcement Learning where we learn to manipulate the object we care about the most - the policy - directly.</p>
 
 <p>&nbsp;
 &nbsp;</p>
@@ -525,14 +561,18 @@ Description Starcraft 2 is a real time strategy game with highly complicated dyn
 
 <h2 id="exercise">Exercise</h2>
 
-<p>Follow the link below to access the exercises for lecture 7:</p>
+<p>Follow the link below to access the exercises for lecture 6:</p>
+
+<p><a href="https://drive.google.com/file/d/1JMtTOmHLG8xqdfhKm0z3i1N4t4lbXh1P/view?usp=drive_open" target="_blank">lecture 6 Exercise 1: DQN Homework Exercise</a></p>
 
 <p>&nbsp;
 &nbsp;</p>
 
 <h2 id="exercise-solutions">Exercise Solutions</h2>
 
-<p>&hellip;</p>
+<p>Follow the link below to access the exercise solutions for lecture 6:</p>
+
+<p><a href="https://drive.google.com/file/d/1YlgZfVteeLFGnGbsD56vE1dsUwyDreYg/view?usp=drive_open" target="_blank">lecture 6 Exercise 1: DQN Homework Exercise Solutions</a></p>
 
 <p>&nbsp;
 &nbsp;</p>

@@ -22,14 +22,26 @@
 
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
 
-&lt;iframe width=&#34;660&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/JYKmkQp7YSg&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/JYKmkQp7YSg&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 
-&lt;p&gt;In this lecture, we will take you on a journey into the near future by discussing the recent developments in the  field of Reinforcement Learning - by introducing you to what Reinforcement Learning is, how it differs from Deep Learning and the future impact of RL technology.&lt;/p&gt;
+&lt;p&gt;In this lecture, we will take you on a journey into the near future by discussing the recent developments in the field of Reinforcement Learning - by introducing you to what Reinforcement Learning is, how it differs from Deep Learning and the future impact of RL technology.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html&#34; target=&#34;_blank&#34;&gt;Andrej Karpathy&amp;rsquo;s ConvNetJS Deep Q Learning Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
 </description>
     </item>
     
@@ -43,7 +55,7 @@
 
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PL99pkap-yVqVEc58yzVHXNxW4RpdIn76Z&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/jjmkX3QQ-7I&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -59,7 +71,7 @@
 
 &lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/star-ai/StarAi-LectureSlides/blob/master/StarAi_%20Lecture%201_%20Epsilon%20Greedy.pdf&#34; target=&#34;_blank&#34;&gt;StarAi Lecture 1 Epsilon Greedy Lecture slides&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -102,7 +114,7 @@
 
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PL99pkap-yVqXlX0QKfxQSfKdvJA0M858L&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/8OHd1MZ8Gxc&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -116,7 +128,7 @@
 
 &lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/star-ai/StarAi-LectureSlides/blob/master/StarAi_%20Lecture%202_%20Markov%20Decision%20Processes.pdf&#34; target=&#34;_blank&#34;&gt;StarAi Lecture 2 Markov Decision Processes slides&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -162,7 +174,7 @@
 
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PL99pkap-yVqUAZEt2yxmJwIMI6cq39plx&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/cJTqEBZ9l9Q&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -176,7 +188,7 @@
 
 &lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/star-ai/StarAi-LectureSlides/blob/master/StarAi_%20Lecture%203%264_TabularQ.pdf&#34; target=&#34;_blank&#34;&gt;StarAi Lecture 3 &amp;amp; 4 TabularQ slides&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -222,7 +234,7 @@
 
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PL99pkap-yVqVK38y2GPQmI6tIny9Ru7k1&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/BL6B1qzpaTU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -236,7 +248,7 @@
 
 &lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/star-ai/StarAi-LectureSlides/blob/master/StarAi_%20Lecture%203%264_TabularQ.pdf&#34; target=&#34;_blank&#34;&gt;StarAi Lecture 3 &amp;amp; 4 TabularQ slides&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -276,7 +288,7 @@
 
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PL99pkap-yVqXaT_pFbknWeOz3LzRMS6aB&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EfNVUECK6H4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -290,7 +302,9 @@
 
 &lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/star-ai/StarAi-LectureSlides/blob/master/StarAi_%20Lecture%205-part%201-Neural%20Q%20Theory.pdf&#34; target=&#34;_blank&#34;&gt;StarAi Lecture 5 part 1 Neural Q Theory slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/star-ai/StarAi-LectureSlides/blob/master/StarAi_%20Lecture%205-part%202-Neural%20Q%20Implementation.pdf&#34; target=&#34;_blank&#34;&gt;StarAi Lecture 5 part 2 Neural Q Implementation slides&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -334,7 +348,7 @@
 
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/XTWIQ_l5YMw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/KyEjdezzPwE&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -342,6 +356,62 @@
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 
 &lt;p&gt;Deep Q-Networks refer to the method proposed by Deepmind in 2014 to learn to play ATARI2600 games from the raw pixel observations. This hugely influential method kick-started the resurgence in interest in Deep Reinforcement Learning, however it&amp;rsquo;s core contributions deal simply with the stabilization of the NQL algorithm. In these session these key innovations (Experience Replay, Target Networks, and Huber Loss) are stepped though, taking the participants from the relatively unstable NQL algorithm to a fully-implemented DQN.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/star-ai/StarAi-LectureSlides/blob/master/StarAi_%20Lecture%206-DQN.pdf&#34; target=&#34;_blank&#34;&gt;StarAi Lecture 6-DQN slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise&#34;&gt;Exercise&lt;/h2&gt;
+
+&lt;p&gt;Follow the link below to access the exercises for lecture 6:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1JMtTOmHLG8xqdfhKm0z3i1N4t4lbXh1P/view?usp=drive_open&#34; target=&#34;_blank&#34;&gt;lecture 6 Exercise 1: DQN Homework Exercise&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
+
+&lt;p&gt;Follow the link below to access the exercise solutions for lecture 6:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1YlgZfVteeLFGnGbsD56vE1dsUwyDreYg/view?usp=drive_open&#34; target=&#34;_blank&#34;&gt;lecture 6 Exercise 1: DQN Homework Exercise Solutions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lecture 7:  Policy Gradient Methods</title>
+      <link>https://starai-course.github.io/course/lecture7/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture7/</guid>
+      <description>
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/XTWIQ_l5YMw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;In previous lectures, you were introduced to DQN - an algorithm that falls under the first major branch of Reinforcement Learning, &amp;ldquo;Value Based Methods&amp;rdquo;. In this lecture, we introduce you to &amp;ldquo;Policy Gradient methods&amp;rdquo; the second major branch of Reinforcement Learning where we learn to manipulate the object we care about the most - the policy - directly.&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -381,11 +451,11 @@
     </item>
     
     <item>
-      <title>Lecture 7:  PySC2</title>
-      <link>https://starai-course.github.io/course/lecture7/</link>
+      <title>Lecture 8:  PySC2</title>
+      <link>https://starai-course.github.io/course/lecture8/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
       
-      <guid>https://starai-course.github.io/course/lecture7/</guid>
+      <guid>https://starai-course.github.io/course/lecture8/</guid>
       <description>
 
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
@@ -397,14 +467,14 @@
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 
-&lt;p&gt;Starcraft 2 is a real time strategy game with highly complicated dynamics and rich multi-layered gameplay - which also makes it an ideal environment for AI research. PySC2 is Deepmind&amp;rsquo;s open source library for interfacing with Blizzard&amp;rsquo;s Starcraft 2 game. This session will introduce the PySC2 API, the observation space and the action spaces available &amp;amp; participants will build a simple DQN agent to play the Move to Beacon minigame provided with PySC2.&lt;/p&gt;
+&lt;p&gt;Starcraft 2 is a real time strategy game with highly complicated dynamics and rich multi-layered gameplay - which also makes it an ideal environment for AI research. PySC2 is Deepmind&amp;rsquo;s open source library for interfacing with Blizzard&amp;rsquo;s Starcraft 2 game. This session will introduce the PySC2 API, the observation space and the action spaces available &amp;amp; participants will build a simple Q learning agent to play the Move to Beacon minigame provided with PySC2.&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
 &lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/star-ai/StarAi-LectureSlides/blob/master/StarAi_%20Lecture%208-Pysc2.pdf&#34; target=&#34;_blank&#34;&gt;StarAi Lecture 8 Pysc2 slides&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -426,6 +496,122 @@
 &lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
 
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bonus:  Rainbow</title>
+      <link>https://starai-course.github.io/course/lecture9/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture9/</guid>
+      <description>
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PL99pkap-yVqWPxtjMTLHXG5zldr8tcEzq&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The StarAi team is excited to offer a lecture &amp;amp; exercises on one of the the most cutting edge, end-to-end value based reinforcement learning algorithms out there - Deepmind&amp;rsquo;s rainbow.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/star-ai/StarAi-LectureSlides/blob/master/StarAi_%20Bonus_Lecture%201-Rainbow.pdf&#34; target=&#34;_blank&#34;&gt;StarAi Bonus Lecture 1 Rainbow slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise&#34;&gt;Exercise&lt;/h2&gt;
+
+&lt;p&gt;Follow the link below to access the exercises for lecture 7:&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bonus: the A2C algorithm</title>
+      <link>https://starai-course.github.io/course/lecture10/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture10/</guid>
+      <description>
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PL99pkap-yVqWwPhUiV_QAmMTDK3oPhzcb&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;A2C is an algorithm &amp;ldquo;framework&amp;rdquo; that combines value &amp;amp; policy based methodologies discussed in previous lectures.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/star-ai/StarAi-LectureSlides/blob/master/StarAi_%20Bonus_Lecture%202-A2C.pdf&#34; target=&#34;_blank&#34;&gt;StarAi Bonus Lecture 2 A2C slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise&#34;&gt;Exercise&lt;/h2&gt;
+
+&lt;p&gt;Follow the link below to access the exercises for lecture 7:&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
+
+&lt;p&gt;Further Learnings - Foundations:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2pWv7GOvuf0&amp;amp;list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&#34; target=&#34;_blank&#34;&gt;Intro to Reinforcement Learning by David Silver (Deepmind)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://incompleteideas.net/book/bookdraft2018mar21.pdf&#34; target=&#34;_blank&#34;&gt;Reinforcement Learning: An Introduction (textbook)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/dennybritz/reinforcement-learning&#34; target=&#34;_blank&#34;&gt;Denny Britz Github Repo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Further Learnings - Advanced:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/view/deep-rl-bootcamp/lectures&#34; target=&#34;_blank&#34;&gt;Berkeley Deep RL Bootcamp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://rll.berkeley.edu/deeprlcourse/&#34; target=&#34;_blank&#34;&gt;CS294 Deep Reinforcement Learning (Berkeley)&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;

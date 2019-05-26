@@ -447,7 +447,37 @@
     <ul class="nav docs-sidenav">
       
       <li >
-        <a href="/course/lecture7/">Lecture 7:  PySC2</a>
+        <a href="/course/lecture7/">Lecture 7:  Policy Gradient Methods</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/course/lecture8/">Week 6</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/course/lecture8/">Lecture 8:  PySC2</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/course/lecture9/">`Bonus Material</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/course/lecture9/">Rainbow</a>
+      </li>
+      
+      <li >
+        <a href="/course/lecture10/">The A2C algorithm</a>
       </li>
       
     </ul>
@@ -470,14 +500,14 @@
 <ul>
 <li>
 <ul>
-<li><a href="#welcome">Welcome</a></li>
 <li><a href="#maximise-your-learning">Maximise Your Learning.</a></li>
-<li><a href="#exercise-technology">Exercise Technology!</a></li>
+<li><a href="#exercise-technology">Exercise Technology.</a></li>
 <li><a href="#how-to-do-the-exercises">How to do the exercises.</a></li>
 <li><a href="#en-taro-adun">En Taro Adun!</a></li>
-<li><a href="#reinforcement-learning-in-the-wild">Reinforcement Learning in the Wild!</a></li>
+<li><a href="#reinforcement-learning-in-the-wild">Reinforcement Learning in the Wild.</a></li>
 <li><a href="#additional-learning-material">Additional Learning Material</a></li>
 <li><a href="#starai-is-beta">StarAi is Beta</a></li>
+<li><a href="#disclaimer">Disclaimer</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -502,9 +532,9 @@
 
 <p>&nbsp;</p>
 
-<h2 id="welcome">Welcome</h2>
+<p>Welcome to the StarAi Deep Reinforcement Learning course</p>
 
-<p>Welcome to the StarAi Deep Reinforcement Learning course.</p>
+<p>&nbsp;</p>
 
 <p>The goal of this course is two fold:</p>
 
@@ -512,6 +542,8 @@
 <li><strong>Most RL courses come at the material from a highly mathematical approach. We aim to explain essential Reinforcement Learning concepts such as value based methods using a fundamentally human tool - stories.</strong></li>
 <li><strong>We believe what you cannot create, you do not understand. We have provided easy to use exercises, with answers, to  reinforce your learning.</strong></li>
 </ul>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -523,9 +555,9 @@
 
 <p>&nbsp;</p>
 
-<h2 id="exercise-technology">Exercise Technology!</h2>
+<h2 id="exercise-technology">Exercise Technology.</h2>
 
-<p>All exercises are executed in Google Colaboratory and run &ldquo;in browser&rdquo; making them hardware independent. All you need is a Google account and either Firefox or Google Chrome Browsers!</p>
+<p>All exercises are executed in Google Colaboratory and run &ldquo;in browser&rdquo; making them hardware independent. All you need is a Google account and either Firefox or Google Chrome Browsers.</p>
 
 <p>&nbsp;</p>
 
@@ -539,21 +571,21 @@
 
 <h2 id="en-taro-adun">En Taro Adun!</h2>
 
-<p>For those of you only interested in the Starcraft element of StarAi please refer to the content of week 6 by clicking this link.</p>
-
 <p>Way back in April 2018! -an actual epoch in the machine learning world!- we set out to create this course to help speed up the development of advanced machine learning techniques through a fun platform - mainly - Starcraft 2, hence the name &ldquo;StarAi&rdquo;.</p>
 
 <p><a href="https://aiandgames.com/zerg-rush-starcraft-ai/" target="_blank">For a long time Starcraft has been considered within the machine learning community to be the next &ldquo;Grand Challenge&rdquo; for Artificial Intelligence</a> due to several properties of the game including very high state &amp; action spaces, partial observability &amp; multi agent gameplay.</p>
 
-<p>However as most of you are aware, <a href="https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/" target="_blank">this year Deepmind made significant progress with regards to solving the game</a>. For all intents and purposes, removing the &ldquo;human limitations&rdquo; restrictions currently emposed on Deepmind&rsquo;s system, the game can be said to be solved and am sure we will see even further progress towards the end of the year from Deepmind&rsquo;s Starcraft team akin to <a href="https://deepmind.com/blog/alphago-zero-learning-scratch/" target="_blank">AlphaGo Zero</a>.</p>
+<p><a href="https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/" target="_blank">This year Deepmind made significant progress with regards to solving the game</a>. For all intents and purposes, removing the &ldquo;human limitations&rdquo; restrictions currently emposed on Deepmind&rsquo;s system, the game can be said to be solved and am sure we will see even further progress towards the end of the year from Deepmind&rsquo;s Starcraft team akin to <a href="https://deepmind.com/blog/alphago-zero-learning-scratch/" target="_blank">AlphaGo Zero</a>.</p>
 
 <p>Why even release the course then? We still believe that the development of bots for games is a fun a way to learn advanced machine learning techniques &amp; if your work in the field eventually leads to new breakthroughs, even more kudos to you!</p>
 
 <p>We also believe that RL will have massive impact in the real world. That is the subject of the next section!</p>
 
+<p>For those of you only interested in the Starcraft element of StarAi please refer to the content of week 6 by clicking this link.</p>
+
 <p>&nbsp;</p>
 
-<h2 id="reinforcement-learning-in-the-wild">Reinforcement Learning in the Wild!</h2>
+<h2 id="reinforcement-learning-in-the-wild">Reinforcement Learning in the Wild.</h2>
 
 <p>Outside of games however, we are beginning to see more use cases of Reinforcement Learning in the wild.</p>
 
@@ -575,7 +607,23 @@
 
 <p>Whilst we did our best to ensure the content is as polished as it could be, we admit bugs exist both logical and otherwise.</p>
 
-<p>It has also been some time since StarAi was run and some of the exercise content might be out of date (tensorflow 2.0 etc). We would welcome and feedback good or bad. Or potential updates to our exercises &amp; codebase. If you would like to provide feedback or help in any way please reach out at contact@starai.io</p>
+<p>It has also been some time since StarAi was run and some of the exercise content might be out of date (tensorflow 2.0 etc). We would welcome and feedback good or bad. Potential updates to our exercises &amp; codebase would also be much appreciated.</p>
+
+<p>If you would like to provide feedback or help in any way please reach out at <a href="contact@starai.io" target="_blank">contact@starai.io</a></p>
+
+<p>&nbsp;</p>
+
+<h2 id="disclaimer">Disclaimer</h2>
+
+<p>Your use of the StarAi Reinforcement Learning course acknowledges that you have read this Disclaimer.</p>
+
+<p>The course is provided &ldquo;as is&rdquo; without warranty of any kind. We assume no responsibility for the use of this course material and we therefore exclude all liability.</p>
+
+<p>StarAi is a non-commericial entity. StarAi is not associated associated with Blizzard Entertainment, Google Inc., Microsoft Pty Ltd, Deepmind Technologies Limited, OpenAI LP or any other legal entity mentioned though out the duration of the StarAi course. Any associated trademarks are the property of their respective owners.</p>
+
+<p>All rights in and to intellectual property rights, including without limitation, copyright or other proprietary rights, belong to their respective owners. Except where expressly stated otherwise or if such use is expressly licensed, these Terms of Use are governed by Australian law and through international treaties, applicable law in other countries. You hereby acknowledge that you are solely responsible for compliance with those terms, rules, regulations, and notices pertaining to the use of StarAi and the operation of the services provided thereon.</p>
+
+<p>This Disclaimer was written, in part, by GPT2 :)</p>
 
           </div>
 

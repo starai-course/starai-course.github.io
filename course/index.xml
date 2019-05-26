@@ -19,7 +19,9 @@
       <guid>https://starai-course.github.io/course/lecture0/</guid>
       <description>&amp;nbsp; &amp;nbsp;
 Video  &amp;nbsp; &amp;nbsp;
-Description In this lecture, we will take you on a journey into the near future by discussing the recent developments in the field of Reinforcement Learning - by introducing you to what Reinforcement Learning is, how it differs from Deep Learning and the future impact of RL technology.</description>
+Description In this lecture, we will take you on a journey into the near future by discussing the recent developments in the field of Reinforcement Learning - by introducing you to what Reinforcement Learning is, how it differs from Deep Learning and the future impact of RL technology.
+&amp;nbsp; &amp;nbsp;
+Additional Learning Material  Andrej Karpathy&amp;rsquo;s ConvNetJS Deep Q Learning Demo  &amp;nbsp; &amp;nbsp;</description>
     </item>
     
     <item>
@@ -51,7 +53,7 @@ Description In this lecture you will learn the fundamentals of Reinforcement Lea
       <description>Video  &amp;nbsp; &amp;nbsp;
 Description In this session, participants will focus on a specific method of Temporal Difference Learning called Tabular Q Learning. Participants will learn the theory behind Q Learning, implement the different components bit by bit and combine these components to solve the robot in a maze scenario.
 &amp;nbsp; &amp;nbsp;
-Lecture Slides &amp;hellip;
+Lecture Slides StarAi Lecture 3 &amp;amp; 4 TabularQ slides
 &amp;nbsp; &amp;nbsp;
 Exercise Follow the link below to access the exercises for lecture 3:</description>
     </item>
@@ -65,7 +67,7 @@ Exercise Follow the link below to access the exercises for lecture 3:</descripti
       <description>Video  &amp;nbsp; &amp;nbsp;
 Description In this session, participants will explore the problem of an environment where observations are continuous variables. Participants will learn the discretisation technique and implement this with the previous components to solve the problem of keeping a cart pole upright without having any understanding of the observations.
 &amp;nbsp; &amp;nbsp;
-Lecture Slides &amp;hellip;
+Lecture Slides StarAi Lecture 3 &amp;amp; 4 TabularQ slides
 &amp;nbsp; &amp;nbsp;
 Exercise Follow the link below to access the exercises for lecture 4:</description>
     </item>
@@ -79,7 +81,7 @@ Exercise Follow the link below to access the exercises for lecture 4:</descripti
       <description>Video  &amp;nbsp; &amp;nbsp;
 Description Neural Q-Learning builds on the theory developed in previous sessions, augmenting the tabular Q-Learning algorithm with the powerful function approximation capabilities of Neural Networks. NQL is the &amp;ldquo;base&amp;rdquo; algorithm unifying Neural Networks and Reinforcement Learning, and participants will be exposed to both the impressive generalization properties of this algorithm, as well as some of it&amp;rsquo;s potential drawbacks and limitations.
 &amp;nbsp; &amp;nbsp;
-Lecture Slides &amp;hellip;</description>
+Lecture Slides StarAi Lecture 5 part 1 Neural Q Theory slides</description>
     </item>
     
     <item>
@@ -93,13 +95,64 @@ Description Deep Q-Networks refer to the method proposed by Deepmind in 2014 to 
     </item>
     
     <item>
-      <title>Lecture 7:  PySC2</title>
+      <title>Lecture 7:  Policy Gradient Methods</title>
       <link>https://starai-course.github.io/course/lecture7/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
       
       <guid>https://starai-course.github.io/course/lecture7/</guid>
       <description>Video  &amp;nbsp; &amp;nbsp;
-Description Starcraft 2 is a real time strategy game with highly complicated dynamics and rich multi-layered gameplay - which also makes it an ideal environment for AI research. PySC2 is Deepmind&amp;rsquo;s open source library for interfacing with Blizzard&amp;rsquo;s Starcraft 2 game. This session will introduce the PySC2 API, the observation space and the action spaces available &amp;amp; participants will build a simple DQN agent to play the Move to Beacon minigame provided with PySC2.</description>
+Description In previous lectures, you were introduced to DQN - an algorithm that falls under the first major branch of Reinforcement Learning, &amp;ldquo;Value Based Methods&amp;rdquo;. In this lecture, we introduce you to &amp;ldquo;Policy Gradient methods&amp;rdquo; the second major branch of Reinforcement Learning where we learn to manipulate the object we care about the most - the policy - directly.
+&amp;nbsp; &amp;nbsp;
+Lecture Slides &amp;hellip;
+&amp;nbsp; &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Lecture 8:  PySC2</title>
+      <link>https://starai-course.github.io/course/lecture8/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture8/</guid>
+      <description>Video  &amp;nbsp; &amp;nbsp;
+Description Starcraft 2 is a real time strategy game with highly complicated dynamics and rich multi-layered gameplay - which also makes it an ideal environment for AI research. PySC2 is Deepmind&amp;rsquo;s open source library for interfacing with Blizzard&amp;rsquo;s Starcraft 2 game. This session will introduce the PySC2 API, the observation space and the action spaces available &amp;amp; participants will build a simple Q learning agent to play the Move to Beacon minigame provided with PySC2.</description>
+    </item>
+    
+    <item>
+      <title>Bonus:  Rainbow</title>
+      <link>https://starai-course.github.io/course/lecture9/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture9/</guid>
+      <description>Video  &amp;nbsp; &amp;nbsp;
+Description The StarAi team is excited to offer a lecture &amp;amp; exercises on one of the the most cutting edge, end-to-end value based reinforcement learning algorithms out there - Deepmind&amp;rsquo;s rainbow.
+&amp;nbsp; &amp;nbsp;
+Lecture Slides StarAi Bonus Lecture 1 Rainbow slides
+&amp;nbsp; &amp;nbsp;
+Exercise Follow the link below to access the exercises for lecture 7:
+&amp;nbsp; &amp;nbsp;
+Exercise Solutions &amp;hellip;
+&amp;nbsp; &amp;nbsp;
+Additional Learning Material &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bonus: the A2C algorithm</title>
+      <link>https://starai-course.github.io/course/lecture10/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture10/</guid>
+      <description>Video  &amp;nbsp; &amp;nbsp;
+Description A2C is an algorithm &amp;ldquo;framework&amp;rdquo; that combines value &amp;amp; policy based methodologies discussed in previous lectures.
+&amp;nbsp; &amp;nbsp;
+Lecture Slides StarAi Bonus Lecture 2 A2C slides
+&amp;nbsp; &amp;nbsp;
+Exercise Follow the link below to access the exercises for lecture 7:
+&amp;nbsp; &amp;nbsp;
+Exercise Solutions &amp;hellip;
+&amp;nbsp; &amp;nbsp;
+Additional Learning Material Further Learnings - Foundations:
+Intro to Reinforcement Learning by David Silver (Deepmind)
+Reinforcement Learning: An Introduction (textbook)</description>
     </item>
     
   </channel>
