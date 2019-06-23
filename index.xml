@@ -687,7 +687,7 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
       
       <guid>https://starai-course.github.io/about/</guid>
-      <description>&lt;p style=&#34;margin-top: 20px;&#34;&gt; &lt;img style=&#34;padding: 0 15px; float: left;&#34; src=https://i.ibb.co/Jv7SzQQ/pnp.png&#34;&gt; &lt;/p&gt;
+      <description>&lt;p style=&#34;margin-top: 20px;&#34;&gt; &lt;img style=&#34;padding: 0 15px; float: right;&#34; src=https://i.ibb.co/Jv7SzQQ/pnp.png&#34;&gt; &lt;/p&gt;
 
 &lt;p&gt;Way back in April 2018! -an actual epoch in the machine learning world!- we set out to create this course to help speed up the development of advanced machine learning techniques through a fun platform - mainly - Starcraft 2, hence the name &amp;ldquo;StarAi&amp;rdquo;.&lt;/p&gt;
 
@@ -695,7 +695,7 @@
 
 &lt;p&gt;&lt;a href=&#34;https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/&#34; target=&#34;_blank&#34;&gt;This year Deepmind made significant progress with regards to solving the game&lt;/a&gt;. For all intents and purposes, removing the &amp;ldquo;human limitations&amp;rdquo; restrictions currently emposed on Deepmind&amp;rsquo;s system, the game can be said to be solved and am sure we will see even further progress towards the end of the year from Deepmind&amp;rsquo;s Starcraft team akin to &lt;a href=&#34;https://deepmind.com/blog/alphago-zero-learning-scratch/&#34; target=&#34;_blank&#34;&gt;AlphaGo Zero&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Why even release the course then? We still believe that the development of bots for games is a fun a way to learn advanced machine learning techniques &amp;amp; if your work in the field eventually leads to new breakthroughs, even more kudos to you!&lt;/p&gt;
+&lt;p&gt;Why even release the course then? We believe that the development of bots for games is a fun a way to learn advanced machine learning techniques &amp;amp; if your work in the field eventually leads to new breakthroughs, even more kudos to you!&lt;/p&gt;
 
 &lt;p&gt;We also believe that RL will have massive impact in the real world in end to end machine learning problems.&lt;/p&gt;
 
