@@ -6,7 +6,7 @@
     <description>Recent content in StarAi: Deep Reinforcement Learning Course on StarAi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2019 00:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://starai-course.github.io/course/index.xml" rel="self" type="application/rss+xml" />
     
@@ -41,7 +41,7 @@ Description In this lecture, we introduce you to your very first RL algorithm, E
       
       <guid>https://starai-course.github.io/course/lecture2/</guid>
       <description>Video  &amp;nbsp; &amp;nbsp;
-Description In this lecture you will learn the fundamentals of Reinforcement Learning. We start off by discussing the Markov environment and its properties, gradually building our understanding of the intuition behind the Markov Decision Process and its elements, like state-value function, action-value function and policies. We then move on to discussing Bellman equations and the intuition behind them. At the end we will explore one of the Bellman equation implementations, using the Dynamic Programming approach and finish with an exercise, where you will implement state-value and action-value functions algorithms and find an optimal policy to solve the Gridworld problem.</description>
+Description Disclaimer: This is the most mathematical lecture out of the StarAi series. Whilst we endeavoured to make the StarAi content as accessible as possible, this particular lecture covers the base fundamentals &amp;amp; therefore contains the most formulas. If formulas is not for you please proceed to week 3. If however you would like to dive deeper down the mathematical formulation of the RL framework we highly recommend David Silver&amp;rsquo;s excellent course on Youtube.</description>
     </item>
     
     <item>
@@ -100,11 +100,9 @@ Description Deep Q-Networks refer to the method proposed by Deepmind in 2014 to 
       <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
       
       <guid>https://starai-course.github.io/course/lecture7/</guid>
-      <description>Video  &amp;nbsp; &amp;nbsp;
-Description In previous lectures, you were introduced to DQN - an algorithm that falls under the first major branch of Reinforcement Learning, &amp;ldquo;Value Based Methods&amp;rdquo;. In this lecture, we introduce you to &amp;ldquo;Policy Gradient methods&amp;rdquo; the second major branch of Reinforcement Learning where we learn to manipulate the object we care about the most - the policy - directly.
-&amp;nbsp; &amp;nbsp;
-Lecture Slides &amp;hellip;
-&amp;nbsp; &amp;nbsp;</description>
+      <description>Video &amp;nbsp; &amp;nbsp;
+Description Please note: since last teaching the Policy Gradient content we have discovered two logical errors. Will be updating &amp;amp; reposting the content soon. Stay tuned.
+In previous lectures, you were introduced to DQN - an algorithm that falls under the first major branch of Reinforcement Learning, &amp;ldquo;Value Based Methods&amp;rdquo;. In this lecture, we introduce you to &amp;ldquo;Policy Gradient methods&amp;rdquo; the second major branch of Reinforcement Learning where we learn to manipulate the object we care about the most - the policy - directly.</description>
     </item>
     
     <item>
@@ -128,11 +126,9 @@ Description The StarAi team is excited to offer a lecture &amp;amp; exercises on
 &amp;nbsp; &amp;nbsp;
 Lecture Slides StarAi Bonus Lecture 1 Rainbow slides
 &amp;nbsp; &amp;nbsp;
-Exercise Follow the link below to access the exercises for lecture 7:
-&amp;nbsp; &amp;nbsp;
-Exercise Solutions &amp;hellip;
-&amp;nbsp; &amp;nbsp;
-Additional Learning Material &amp;hellip;</description>
+Exercise Follow the link below to access the exercises for this lecture:
+Bonus Rainbow Notebook: Duelling DQN
+Bonus Rainbow Notebook: Multi Step DQN</description>
     </item>
     
     <item>
@@ -146,13 +142,31 @@ Description A2C is an algorithm &amp;ldquo;framework&amp;rdquo; that combines va
 &amp;nbsp; &amp;nbsp;
 Lecture Slides StarAi Bonus Lecture 2 A2C slides
 &amp;nbsp; &amp;nbsp;
-Exercise Follow the link below to access the exercises for lecture 7:
+Exercise Follow the link below to access the exercises for the A2C lecture:
+Bonus Lecture Exercise: Advantage Actor Critic
 &amp;nbsp; &amp;nbsp;
-Exercise Solutions &amp;hellip;
-&amp;nbsp; &amp;nbsp;
-Additional Learning Material Further Learnings - Foundations:
+Exercise Solutions Follow the link below to access the exercise solutions for the bonus lecture :</description>
+    </item>
+    
+    <item>
+      <title>Bonus: Additional Learning Material</title>
+      <link>https://starai-course.github.io/course/lecture11/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture11/</guid>
+      <description>&amp;nbsp; &amp;nbsp;
+Additional Learning Material &amp;nbsp; &amp;nbsp;
+Further Learnings - Foundations:
 Intro to Reinforcement Learning by David Silver (Deepmind)
-Reinforcement Learning: An Introduction (textbook)</description>
+Reinforcement Learning: An Introduction (textbook)
+Denny Britz Github Repo
+OpenAi Spinning Up in Deep RL
+&amp;nbsp; &amp;nbsp;
+Further Learnings - Advanced:
+Berkeley Deep RL Bootcamp
+CS294 Deep Reinforcement Learning (Berkeley)
+Deepmind&amp;rsquo;s IMPALA RL Framework
+&amp;nbsp; &amp;nbsp;</description>
     </item>
     
   </channel>

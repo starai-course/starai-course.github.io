@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>StarAi on StarAi</title>
@@ -80,14 +79,16 @@
 
 &lt;p&gt;Follow the link below to access the exercises for lecture 1:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1Ety-lOtIJLxz9jkWtw7plMc8EOB2V3wG&#34; target=&#34;_blank&#34;&gt;Lecture 1: Epsilon-Greedy &amp;amp; the Multi- Armed Bandit with OpenAi Gym&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1ORJ1aJExBgJdaFQqLWP3V2F3AG25TZnJ&#34; target=&#34;_blank&#34;&gt;Lecture 1: Epsilon-Greedy &amp;amp; the Multi- Armed Bandit with OpenAi Gym&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
 &lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Follow the link below to access the exercise solutions for lecture 1:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1ORJ1aJExBgJdaFQqLWP3V2F3AG25TZnJ&#34; target=&#34;_blank&#34;&gt;Exercise Solutions: Epsilon-Greedy &amp;amp; the Multi- Armed Bandit with OpenAi Gym&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -97,6 +98,7 @@
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;http://incompleteideas.net/book/RLbook2018.pdf&#34; target=&#34;_blank&#34;&gt;Sutton &amp;amp; Barto&amp;rsquo;s Reinforcement Learning: An Introduction&lt;/a&gt; - Chapter 2 intro, section 2.1 up to 2.5&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://bl.ocks.org/puzzler10/f8955e779fd81f5cf7befaef76bdf503&#34; target=&#34;_blank&#34;&gt;Tom Roth&amp;rsquo;s Multiarmed Bandit Simulator&lt;/a&gt; - Get a feel for how the Multiarmed Bandit works live in your browser!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2&#34; target=&#34;_blank&#34;&gt;Edx&amp;rsquo;s Brilliant Python Course&lt;/a&gt; - Note that the majority of StarAi&amp;rsquo;s exercises are in the Python programming language. If you would like to further you knowledge in this field we strongly suggest you learn Python.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&amp;nbsp;
@@ -121,6 +123,8 @@
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 
+&lt;p&gt;Disclaimer: This is the most mathematical lecture out of the StarAi series. Whilst we endeavoured to make the StarAi content as accessible as possible, this particular lecture covers the base fundamentals &amp;amp; therefore contains the most formulas. If formulas is not for you please proceed to week 3. If however you would like to dive deeper down the mathematical formulation of the RL framework we highly recommend &lt;a href=&#34;https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&#34; target=&#34;_blank&#34;&gt;David Silver&amp;rsquo;s excellent course on Youtube.&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;In this lecture you will learn the fundamentals of Reinforcement Learning. We start off by discussing the Markov environment and its properties, gradually building our understanding of the intuition behind the Markov Decision Process and its elements, like state-value function, action-value function and policies. We then move on to discussing Bellman equations and the intuition behind them.  At the end we will explore one of the Bellman equation implementations, using the Dynamic Programming approach and finish with an exercise, where you will implement state-value and action-value functions algorithms and find  an optimal policy to solve the Gridworld problem.&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
@@ -141,14 +145,18 @@
 
 &lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1A5xFYs5wf6RKYY4OF2XYZlnMGreSv0p7&#34; target=&#34;_blank&#34;&gt;Lecture 2 Exercise 2: Policy Iteration Exercise&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1S-YKcZqWdnQFeB7tK3u-_o1MTD15mnFD&#34; target=&#34;_blank&#34;&gt;Lecture 2 Exercise 3: Value Iteration Exercise&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1S-YKcZqWdnQFeB7tK3u-_o1MTD15mnFD/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lecture 2 Exercise 3: Value Iteration Exercise&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
 &lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Follow the link below to access the exercise solutions for lecture 2:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1TRMfAvdkydL8mOPJHr-Jt1pHT4CPx6C0/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Exercise Solutions 1: Policy Evaluation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1eDKS3FGLgdIFNlrh961CpniPs3Lu9way/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Exercise Solutions: Value Iteration&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -197,18 +205,16 @@
 
 &lt;p&gt;Follow the link below to access the exercises for lecture 3:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Gb_a7TmYOpllQuse6ryI5ANHsAaSNcmq/view?usp=drive_open&#34; target=&#34;_blank&#34;&gt;Lecture 3 Exercise 1: Tabular Q FrozenLake&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1ob5CyQxYcL0z15vm6oHjAitQOoIbLvB5&#34; target=&#34;_blank&#34;&gt;Lecture 3 Exercise: Tabular Q FrozenLake&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
 &lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
 
-&lt;p&gt;Will Walking through the solutions to exercise #:&lt;/p&gt;
+&lt;p&gt;Follow the link below to access the exercise solutions for lecture 3:&lt;/p&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MIzulXMSaEQ&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1wxusmHIWWAgOlRCQc-nMxc-iudFnkURA&#34; target=&#34;_blank&#34;&gt;Exercise Solutions: Tabular Q FrozenLake&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -257,14 +263,19 @@
 
 &lt;p&gt;Follow the link below to access the exercises for lecture 4:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Owuoxq8tEnl_F3vupLhSnWMszsXiqq3f/view?usp=drive_open&#34; target=&#34;_blank&#34;&gt;Lecture 4 Exercise 2: Tabular Q Cartpole!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1fFjj7gymPBYDdMgq7tQR0boWAKArIYMs&#34; target=&#34;_blank&#34;&gt;Lecture 4 Exercise: Tabular Q Cartpole!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
 &lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Follow the link below to access the exercise solutions for lecture 4:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1vezRYQ2qXY7b9x-VwHpxG7nNuNr-iw0x&#34; target=&#34;_blank&#34;&gt;Exercise Solutions: Tabular Q Cartpole&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -313,7 +324,7 @@
 
 &lt;p&gt;Follow the link below to access the exercises for lecture 5:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1n3BLoAjqEdOkXbW0hPLzHyDnT-xVkTil&#34; target=&#34;_blank&#34;&gt;lecture 5 Exercise 1: Neural Q Learning Exercise&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1n3BLoAjqEdOkXbW0hPLzHyDnT-xVkTil&#34; target=&#34;_blank&#34;&gt;lecture 5 Exercise: Neural Q Learning Exercise&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -322,7 +333,7 @@
 
 &lt;p&gt;Follow the link below to access the exercise solutions for lecture 5:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1f0FzLwFspcMEgHdRkjV2NcA4IvQWOJ50&#34; target=&#34;_blank&#34;&gt;lecture 5 Exercise 1: Neural Q Learning Exercise Solutions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1f0FzLwFspcMEgHdRkjV2NcA4IvQWOJ50&#34; target=&#34;_blank&#34;&gt;lecture 5 Exercise: Neural Q Learning Exercise Solutions&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -371,7 +382,7 @@
 
 &lt;p&gt;Follow the link below to access the exercises for lecture 6:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1JMtTOmHLG8xqdfhKm0z3i1N4t4lbXh1P/view?usp=drive_open&#34; target=&#34;_blank&#34;&gt;lecture 6 Exercise 1: DQN Homework Exercise&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1JMtTOmHLG8xqdfhKm0z3i1N4t4lbXh1P/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;lecture 6 Exercise: DQN Homework Exercise&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -380,14 +391,16 @@
 
 &lt;p&gt;Follow the link below to access the exercise solutions for lecture 6:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1YlgZfVteeLFGnGbsD56vE1dsUwyDreYg/view?usp=drive_open&#34; target=&#34;_blank&#34;&gt;lecture 6 Exercise 1: DQN Homework Exercise Solutions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1YlgZfVteeLFGnGbsD56vE1dsUwyDreYg/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;lecture 6 Exercise: DQN Homework Exercise Solutions&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
 &lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fevMOp5TDQs&#34; target=&#34;_blank&#34;&gt;DeepRL Bootcamp lecture from Vlad Mnih, one of the original authors of DQN&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -404,12 +417,14 @@
 
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/XTWIQ_l5YMw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/P6699vz/Screen-Shot-2019-06-23-at-2-26-48-pm.png&#34; alt=&#34;IMAGE ALT TEXT HERE&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Please note: since last teaching the Policy Gradient content we have discovered two logical errors. Will be updating &amp;amp; reposting the content soon. Stay tuned.&lt;/p&gt;
 
 &lt;p&gt;In previous lectures, you were introduced to DQN - an algorithm that falls under the first major branch of Reinforcement Learning, &amp;ldquo;Value Based Methods&amp;rdquo;. In this lecture, we introduce you to &amp;ldquo;Policy Gradient methods&amp;rdquo; the second major branch of Reinforcement Learning where we learn to manipulate the object we care about the most - the policy - directly.&lt;/p&gt;
 
@@ -425,18 +440,14 @@
 
 &lt;h2 id=&#34;exercise&#34;&gt;Exercise&lt;/h2&gt;
 
-&lt;p&gt;Follow the link below to access the exercises for lecture 6:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1JMtTOmHLG8xqdfhKm0z3i1N4t4lbXh1P/view?usp=drive_open&#34; target=&#34;_blank&#34;&gt;lecture 6 Exercise 1: DQN Homework Exercise&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow the link below to access the exercises for lecture 7:&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
 &lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
 
-&lt;p&gt;Follow the link below to access the exercise solutions for lecture 6:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1YlgZfVteeLFGnGbsD56vE1dsUwyDreYg/view?usp=drive_open&#34; target=&#34;_blank&#34;&gt;lecture 6 Exercise 1: DQN Homework Exercise Solutions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow the link below to access the exercise solutions for lecture 7:&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -481,21 +492,23 @@
 
 &lt;h2 id=&#34;exercise&#34;&gt;Exercise&lt;/h2&gt;
 
-&lt;p&gt;Follow the link below to access the exercises for lecture 7:&lt;/p&gt;
+&lt;p&gt;Follow the link below to access the exercises for lecture 8:&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://itnext.io/build-a-zerg-bot-with-pysc2-2-0-295375d2f58e&#34; target=&#34;_blank&#34;&gt;Lecture 8 Exercise 1: Build a Zerg Bot with PySC2 2.0&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://itnext.io/create-a-protoss-bot-using-raw-observations-and-actions-in-pysc2-615f41aa283e&#34; target=&#34;_blank&#34;&gt;Lecture 8 Exercise 2: Create a Protoss Bot Using Raw Observations and Actions in PySC2&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
 &lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://itnext.io/the-evolution-of-alphastar-cefff389b9d5&#34; target=&#34;_blank&#34;&gt;Steven Brown&amp;rsquo;s Discussion of AlphaStar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.alexirpan.com/2019/02/22/alphastar.html&#34; target=&#34;_blank&#34;&gt;Alexir Pan&amp;rsquo;s Discussi of the AlphaStar Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/deepmind/pysc2&#34; target=&#34;_blank&#34;&gt;Deepmind PySC2 Repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.starai.io/tools/&#34; target=&#34;_blank&#34;&gt;StarAi PySC2 Tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -533,21 +546,22 @@
 
 &lt;h2 id=&#34;exercise&#34;&gt;Exercise&lt;/h2&gt;
 
-&lt;p&gt;Follow the link below to access the exercises for lecture 7:&lt;/p&gt;
+&lt;p&gt;Follow the link below to access the exercises for this lecture:&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1pETREgayPYnZTGbI0qWkMXmAvFMZuGJE/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Bonus Rainbow Notebook: Duelling DQN&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1H9KaNlgl-WZvhlSF3FI15vY1v1KHeesC/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Bonus Rainbow Notebook: Multi Step DQN&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1e7-L-t-68Ht3DsKanHcJKKE7ytF6d0W5/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Bonus Rainbow Notebook: Prioritised Experience Replay DQN&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
 &lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1710.02298.pdf&#34; target=&#34;_blank&#34;&gt;Deepmind&amp;rsquo;s Rainbow Paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -585,14 +599,21 @@
 
 &lt;h2 id=&#34;exercise&#34;&gt;Exercise&lt;/h2&gt;
 
-&lt;p&gt;Follow the link below to access the exercises for lecture 7:&lt;/p&gt;
+&lt;p&gt;Follow the link below to access the exercises for the A2C lecture:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/12yQCP7yJ69lV4k2x5FY9fJVpY5ktB5IC&#34; target=&#34;_blank&#34;&gt;Bonus Lecture Exercise: Advantage Actor Critic&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
 &lt;h2 id=&#34;exercise-solutions&#34;&gt;Exercise Solutions&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Follow the link below to access the exercise solutions for the bonus lecture :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1gkOMzvtuzd6mBbwkwGLvDDtTB140TUKH/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Bonus Exercise Solutions: Advantage Actor Critic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -612,6 +633,48 @@
 &lt;p&gt;&lt;a href=&#34;https://sites.google.com/view/deep-rl-bootcamp/lectures&#34; target=&#34;_blank&#34;&gt;Berkeley Deep RL Bootcamp&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://rll.berkeley.edu/deeprlcourse/&#34; target=&#34;_blank&#34;&gt;CS294 Deep Reinforcement Learning (Berkeley)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bonus: Additional Learning Material</title>
+      <link>https://starai-course.github.io/course/lecture11/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://starai-course.github.io/course/lecture11/</guid>
+      <description>
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;additional-learning-material&#34;&gt;Additional Learning Material&lt;/h2&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Further Learnings - Foundations:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2pWv7GOvuf0&amp;amp;list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&#34; target=&#34;_blank&#34;&gt;Intro to Reinforcement Learning by David Silver (Deepmind)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://incompleteideas.net/book/bookdraft2018mar21.pdf&#34; target=&#34;_blank&#34;&gt;Reinforcement Learning: An Introduction (textbook)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/dennybritz/reinforcement-learning&#34; target=&#34;_blank&#34;&gt;Denny Britz Github Repo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://spinningup.openai.com/en/latest/&#34; target=&#34;_blank&#34;&gt;OpenAi Spinning Up in Deep RL&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Further Learnings - Advanced:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/view/deep-rl-bootcamp/lectures&#34; target=&#34;_blank&#34;&gt;Berkeley Deep RL Bootcamp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://rll.berkeley.edu/deeprlcourse/&#34; target=&#34;_blank&#34;&gt;CS294 Deep Reinforcement Learning (Berkeley)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://deepmind.com/blog/impala-scalable-distributed-deeprl-dmlab-30/&#34; target=&#34;_blank&#34;&gt;Deepmind&amp;rsquo;s IMPALA RL Framework&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
@@ -642,7 +705,7 @@
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Machine Learning Engineer&lt;/strong&gt;  Paul Conyngham&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Machine Learning Engineer&lt;/strong&gt;  &lt;a href=&#34;https://www.linkedin.com/in/paustevenlconyngham/&#34; target=&#34;_blank&#34;&gt;Paul Conyngham&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
@@ -655,7 +718,7 @@
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Reinforcement Learning PhD Candidate&lt;/strong&gt;  Alex Long&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reinforcement Learning PhD Candidate&lt;/strong&gt;  &lt;a href=&#34;https://www.linkedin.com/in/alex-long-rl/&#34; target=&#34;_blank&#34;&gt;Alex Long&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
@@ -668,7 +731,7 @@
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt;  William Xu&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt;  &lt;a href=&#34;https://www.linkedin.com/in/william-xu-yuzhou/&#34; target=&#34;_blank&#34;&gt;William Xu&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
@@ -681,7 +744,7 @@
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt;  Artem Golubev&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt;  &lt;a href=&#34;https://www.linkedin.com/in/artgo/&#34; target=&#34;_blank&#34;&gt;Artem Golubev&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
@@ -694,7 +757,7 @@
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Artificial Intelligence Engineer&lt;/strong&gt;  Steven Brown&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Artificial Intelligence Engineer&lt;/strong&gt;  &lt;a href=&#34;https://www.linkedin.com/in/theskjb/&#34; target=&#34;_blank&#34;&gt;Steven Brown&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
@@ -728,7 +791,37 @@
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Low Level Software Engineer&lt;/strong&gt;  Franklin He&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Low Level Software Engineer&lt;/strong&gt;  &lt;a href=&#34;https://www.linkedin.com/in/franklin-h-804b85a0/&#34; target=&#34;_blank&#34;&gt;Franklin He&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Video Editing Team:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/Vgk50vr/Screen-Shot-2019-06-17-at-8-24-25-am.png&#34;
+     alt=&#34;Markdown Monster icon&#34;
+     style=&#34;float: left; margin-right: 10px;&#34;  /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Video Editor &amp;amp; ITS Engineer&lt;/strong&gt;  &lt;a href=&#34;https://www.linkedin.com/in/miguel-costa-technology/&#34; target=&#34;_blank&#34;&gt;Miguel Costa&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/52Pqddr/Screen-Shot-2019-06-17-at-8-24-12-am.png&#34;
+     alt=&#34;Markdown Monster icon&#34;
+     style=&#34;float: left; margin-right: 10px;&#34;  /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Video Editor&lt;/strong&gt;  &lt;a href=&#34;https://www.linkedin.com/in/michael-dimola-iii-61b863179/&#34; target=&#34;_blank&#34;&gt;Michael DiMola III&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
