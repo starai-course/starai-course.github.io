@@ -138,14 +138,10 @@ Bonus Rainbow Notebook: Multi Step DQN</description>
       
       <guid>https://starai-course.github.io/course/lecture10/</guid>
       <description>Video  &amp;nbsp; &amp;nbsp;
-Description A2C is an algorithm &amp;ldquo;framework&amp;rdquo; that combines value &amp;amp; policy based methodologies discussed in previous lectures.
+Description Disclaimer: We feel that this lecture is not as polished as the rest of our content but decided to release it under the bonus section, under the hope that the community might find some value out of it. Enjoy!
+A2C is an algorithm &amp;ldquo;framework&amp;rdquo; that combines value &amp;amp; policy based methodologies discussed in previous lectures.
 &amp;nbsp; &amp;nbsp;
-Lecture Slides StarAi Bonus Lecture 2 A2C slides
-&amp;nbsp; &amp;nbsp;
-Exercise Follow the link below to access the exercises for the A2C lecture:
-Bonus Lecture Exercise: Advantage Actor Critic
-&amp;nbsp; &amp;nbsp;
-Exercise Solutions Follow the link below to access the exercise solutions for the bonus lecture :</description>
+Lecture Slides StarAi Bonus Lecture 2 A2C slides</description>
     </item>
     
     <item>
