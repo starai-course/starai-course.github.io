@@ -122,13 +122,8 @@ Description Starcraft 2 is a real time strategy game with highly complicated dyn
       
       <guid>https://starai-course.github.io/course/lecture9/</guid>
       <description>Video  &amp;nbsp; &amp;nbsp;
-Description The StarAi team is excited to offer a lecture &amp;amp; exercises on one of the the most cutting edge, end-to-end value based reinforcement learning algorithms out there - Deepmind&amp;rsquo;s rainbow.
-&amp;nbsp; &amp;nbsp;
-Lecture Slides StarAi Bonus Lecture 1 Rainbow slides
-&amp;nbsp; &amp;nbsp;
-Exercise Follow the link below to access the exercises for this lecture:
-Bonus Rainbow Notebook: Duelling DQN
-Bonus Rainbow Notebook: Multi Step DQN</description>
+Description Disclaimer: We feel that this lecture is not as polished as the rest of our content but decided to release it in the bonus section, under the hope that the community might find some value out of it. Enjoy!
+The StarAi team is excited to offer a lecture &amp;amp; exercises on one of the the most cutting edge, end-to-end value based reinforcement learning algorithms out there - Deepmind&amp;rsquo;s rainbow.</description>
     </item>
     
     <item>
@@ -138,7 +133,7 @@ Bonus Rainbow Notebook: Multi Step DQN</description>
       
       <guid>https://starai-course.github.io/course/lecture10/</guid>
       <description>Video  &amp;nbsp; &amp;nbsp;
-Description Disclaimer: We feel that this lecture is not as polished as the rest of our content but decided to release it under the bonus section, under the hope that the community might find some value out of it. Enjoy!
+Description Disclaimer: We feel that this lecture is not as polished as the rest of our content but decided to release it in the bonus section, under the hope that the community might find some value out of it. Enjoy!
 A2C is an algorithm &amp;ldquo;framework&amp;rdquo; that combines value &amp;amp; policy based methodologies discussed in previous lectures.
 &amp;nbsp; &amp;nbsp;
 Lecture Slides StarAi Bonus Lecture 2 A2C slides</description>
